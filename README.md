@@ -1,6 +1,8 @@
+
+(https://media.licdn.com/dms/image/v2/D4D16AQHhKpAX2TuQoA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725700480246?e=1732147200&v=beta&t=EJ-0YiOzI0ry2X89PMosU3a_R9cEnlo4m0Fhui3ucJs)
 ### Hi there 👋, I'm Md Najmul Hasan
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQHhKpAX2TuQoA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725700480246?e=1732147200&v=beta&t=EJ-0YiOzI0ry2X89PMosU3a_R9cEnlo4m0Fhui3ucJs)
+![Full Stack Web Developer]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
